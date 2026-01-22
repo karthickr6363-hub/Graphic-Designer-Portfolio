@@ -5,8 +5,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Production builds
-dist/
+# Production builds (keep dist for GitHub Pages)
+# dist/
 build/
 .output/
 
